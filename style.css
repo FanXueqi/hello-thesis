@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+
+#criterias {
+  display: flex;
+  justify-content: space-around;
+  /* background-color: yellow; */
+}
+
+#classifications {
+  display: flex;
+  justify-content: space-around;
+}
+
+.classification {
+  /* background-color: green; */
+  text-align: center;
+}
+
+.projectsContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  width: 100px;
+}
+
+.selected {
+  text-decoration: underline;
+  font-weight : bold;
+}

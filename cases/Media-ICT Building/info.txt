@@ -1,0 +1,10 @@
+Architects: Enric Ruiz Geli
+Time: 2009
+Location: Barcelona, Spain
+Shading Material: eco-efficient Ethylene tetrafluoroethylene (ETFE) cushions
+Frame Material: steel
+Keywords: "Performative" architecture, daylight gain
+Challenges: 
+Intro: (Media-ICT building is also referred as Media-TIC building, where “I” is “information”, “C” is “communication”, “T” is “technology”.)| "The theme of the Media-TIC building is how architecture creates a new balance with the digital use of energy," says Ruiz Geli. "In the digital information era, architecture has to be a technological platform, in which connectivity, new materials and nanotechnology are important." | The ETFE cushions, found in south-east and south-west façades in the Media-TIC building, use 2,500m² of ETFE cladding and achieves energy savings of 20%. The south-east facade includes 6 different combinations of single ETFE sheets, all of them are printed in white or green in either positive or negative patterns of dots. The cushion containing three layers of ETFE sheet can actively change the transparency from 65% to 45% by adjusting the position of the middle sheet closing or far from the exterior sheet . The CAC(south-east) facade receives six hours of sunshine a day, the shading system operates by injecting fog into the cushions, which reduce the solar heat gain up to 90%. (Marta Albiñana and Enric Ruiz-Geli, year)
+Image srcs: 1.png|2.png
+References: https://www.designbuild-network.com/projects/media-tic/ | https://www.ruiz-geli.com/projects/built/media-tic | https://books.google.com/books?id=VPQY4s3QtZwC&pg=PA255&lpg=PA255&dq=CAC+facade&source=bl&ots=i-QD4bsiSd&sig=ACfU3U33UpKBrUz8XABkFkNSTeNa567QEw&hl=en&sa=X&ved=2ahUKEwj4lMCN3OXiAhV7wMQHHV__CwgQ6AEwDHoECAcQAQ#v=onepage&q=CAC%20facade&f=false
