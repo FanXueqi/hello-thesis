@@ -30,7 +30,7 @@
   function showClassifications(key) {
     clearOldClass();
     id(key).classList.add("selected");
-    let classHere = fetchClassificationData(key);
+    fetchClassificationData(key);
   }
 
   function clearOldClass() {
@@ -54,7 +54,7 @@
     fetch(url)
        .then(checkStatus)
        .then(JSON.parse)
-       .then(populatePage)
+       .then(populateIcons)
        .catch(() => {
          console.log("a!")
        });
@@ -64,7 +64,7 @@
   /**
   * Fetches and displays the cases under classifications
   */
-  function populatePage(response) {
+  function populateIcons(response) {
     let numClasses = Object.keys(response).length;
     for (let i = 0; i < numClasses; i++) {
       let whatclass = Object.keys(response)[i];
@@ -92,31 +92,28 @@
         let icon = document.createElement("img");
         icon.classList.add("icon");
         icon.src = "cases/" + project + "/icon.gif";
-        icon.addEventListener("click", function() {showProjectDetail(project)});
+        icon.addEventListener("click", function() {fetchProjectDetailData(project)});
         id(whatclass).appendChild(icon);
       }
     }
 
     /**
-     * Fetches and displays project Detail
-     */
-    function showProjectDetail(project) {
-      let projectDetail = fetchProjectDetailData();
-    }
-
-    /**
      * Fetches the project detail data, including introduction, location, architects...
      */
-    function fetchClassificationData(key) {
-      let url = URL + "?classification=" + key;
+    function fetchClassificationData(project) {
+      let url = URL + "?case=" + project;
 
       fetch(url)
          .then(checkStatus)
          .then(JSON.parse)
-         .then(populatePage)
+         .then(populateProject)
          .catch(() => {
-           console.log("a!")
+           console.log("aaa!")
          });
+    }
+
+    function populateProject(response) {
+      let title = document.createElement
     }
   }
 
