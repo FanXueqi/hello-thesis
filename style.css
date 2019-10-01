@@ -2,6 +2,10 @@ h1 {
   text-align: center;
 }
 
+.hidden {
+  display: none;
+}
+
 #criterias {
   display: flex;
   justify-content: space-around;
@@ -25,6 +29,14 @@ h1 {
 
 .icon {
   width: 100px;
+}
+
+.images {
+  height: 200px;
+}
+
+#imgs {
+  display: flex;
 }
 
 .selected {

@@ -1,11 +1,11 @@
-Title: RMIT Design Hub
-Architects: Sean Godsell Architects
-Time: 2012
-Location: Melbourne, Australia
-Shading Material: sandblasted glass
-Frame Material: galvanised steel frame
-Keywords: sun shading|airflow|“sweat” facade
+Title:RMIT Design Hub
+Architects:Sean Godsell Architects
+Time:2012
+Location:Melbourne, Australia
+Shading Material:sandblasted glass
+Frame Material:galvanised steel frame
+Keywords:sun shading|airflow|“sweat” facade
 Challenges: 
-Intro: The outer skin of the Hub incorporates automated sun shading that includes photovoltaic cells, evaporative cooling and fresh air intakes that improve the internal air quality and reduce running costs. (Sean Godsell Architects) | Sean Godsell’s idea was to simulate a human skin in the building facade, which can “sweat” in the hot weather. When the air moves through the double-skin facade, it will bring the moisture of a membrane in perimeter grille that is wetted by harvested rainwater, thus cooling the interior during summer. | The northern facade is dedicated to ongoing research into solar cells in RMIT, “The solar project will also support RMIT research and teaching in sustainable energy, realizing the original vision of the building becoming a true ‘living laboratory’,” Pro Vice-Chancellor Design and Social Context, Professor Paul Gough said. | The cells have been designed to be easily replaced as solar energy technology improves. The entire building façade, “has the capacity to be upgraded as solar technology evolves and may one day generate enough electricity to run the whole building.”(Sean Godsell Architects)“This approach to incorporate new solar technologies will continue and expand into the future across the building, as further innovation in this strategically important area of research becomes available,” Gough said.
-Image srcs: 1.png|2.png|3.png|4.png
+Intro:The outer skin of the Hub incorporates automated sun shading that includes photovoltaic cells, evaporative cooling and fresh air intakes that improve the internal air quality and reduce running costs. (Sean Godsell Architects) | Sean Godsell’s idea was to simulate a human skin in the building facade, which can “sweat” in the hot weather. When the air moves through the double-skin facade, it will bring the moisture of a membrane in perimeter grille that is wetted by harvested rainwater, thus cooling the interior during summer. | The northern facade is dedicated to ongoing research into solar cells in RMIT, “The solar project will also support RMIT research and teaching in sustainable energy, realizing the original vision of the building becoming a true ‘living laboratory’,” Pro Vice-Chancellor Design and Social Context, Professor Paul Gough said. | The cells have been designed to be easily replaced as solar energy technology improves. The entire building façade, “has the capacity to be upgraded as solar technology evolves and may one day generate enough electricity to run the whole building.”(Sean Godsell Architects)“This approach to incorporate new solar technologies will continue and expand into the future across the building, as further innovation in this strategically important area of research becomes available,” Gough said.
+ImgSrcs:1.png|2.png|3.png|4.png
 References: Gosia Kaszubska https://www.rmit.edu.au/news/all-news/2016/february/iconic-design-hub-facade-to-go-solar | the problem of scale https://onlinelibrary.wiley.com/doi/pdf/10.1002/ad.1505 | Sean Godsell Architect https://www.seangodsell.com/

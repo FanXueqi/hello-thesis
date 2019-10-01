@@ -1,12 +1,12 @@
-Title: Haus am Milsertor
-Architects: Orgler ZT-GmbH
-Time: 2008
-Location: Stadtgraben, Austria
-Shading Material: acrylic glass
-Frame Material: aluminum
-Keywords: movable sun protection, unobstructed view
+Title:Haus am Milsertor
+Architects:Orgler ZT-GmbH
+Time:2008
+Location:Stadtgraben, Austria
+Shading Material:acrylic glass
+Frame Material:aluminum
+Keywords:movable sun protection, unobstructed view
 Challenges: 
-Intro: The corners of the Milsertor Service Centre are clad with folding sunscreens, which pick the banded pattern of the main facade. The folding elements are made of 6mm white panels that diffuse light into the interiors when closed, creating pleasantly soft light in the offices. When the folding sliding shutters are open, they extend outwards like flags, providing unblocked view of the outside. 
-Image srcs: 1.png|2.png|3.png|4.png
+Intro:The corners of the Milsertor Service Centre are clad with folding sunscreens, which pick the banded pattern of the main facade. The folding elements are made of 6mm white panels that diffuse light into the interiors when closed, creating pleasantly soft light in the offices. When the folding sliding shutters are open, they extend outwards like flags, providing unblocked view of the outside. 
+ImgSrcs:1.png|2.png|3.png|4.png
 References: 
 

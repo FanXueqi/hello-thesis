@@ -12,6 +12,7 @@
   window.addEventListener("load", init);
 
   function init() {
+    id("singleProjectView").classList.add("hidden");
     createNav();
   }
 
@@ -92,15 +93,21 @@
         let icon = document.createElement("img");
         icon.classList.add("icon");
         icon.src = "cases/" + project + "/icon.gif";
-        icon.addEventListener("click", function() {fetchProjectDetailData(project)});
+        icon.addEventListener("click", function() {showProject(project)});
         id(whatclass).appendChild(icon);
       }
+    }
+
+    function showProject(project) {
+      id("allCasesView").classList.add("hidden");
+      id("singleProjectView").classList.remove("hidden");
+      fetchProject(project);
     }
 
     /**
      * Fetches the project detail data, including introduction, location, architects...
      */
-    function fetchClassificationData(project) {
+    function fetchProject(project) {
       let url = URL + "?case=" + project;
 
       fetch(url)
@@ -113,7 +120,28 @@
     }
 
     function populateProject(response) {
-      let title = document.createElement
+      //baseInfo
+      for (let i = 0; i < 7; i ++) {
+        let part1 = document.createElement("p");
+        part1.innerText = Object.keys(response)[i] + " : " + Object.values(response)[i];
+        id("baseInfo").appendChild(part1);
+      }
+
+      //imgs
+      let imgSrcs = response["ImgSrcs"];
+      console.log(response["ImgSrcs"]);
+      console.log(imgSrcs.length);
+      for (let i = 0; i < imgSrcs.length; i++) {
+        let image = document.createElement("img");
+        image.src = "cases/" + response["Title"] + "/imgs/" + imgSrcs[i];
+        image.classList.add("images");
+        id("imgs").appendChild(image);
+      }
+
+      //intro
+      let intro = document.createElement("p");
+      intro.innerText = response["Intro"];
+      id("intro").appendChild(intro);
     }
   }
 

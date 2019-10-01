@@ -1,11 +1,11 @@
-Title: Al Bahar Towers
-Architects: AHR
-Time: 2012
-Location: ABu Dhabi
-Shading Material: micro-perforated, polytetrafluoroethylene (PTFE) coated fiberglass
+Title:Al Bahar Towers
+Architects:AHR
+Time:2012
+Location:ABu Dhabi
+Shading Material:micro-perforated, polytetrafluoroethylene (PTFE) coated fiberglass
 Frame Material: Polyvinylidene fluoride(PVDF)coated Aluminium
-Keywords: bio-inspiration|regional architecture|performance oriented technology|integration of traditional and modern
-Challenges: Intense sunshine and extreme temperature 
-Intro: “A key driver in the design was a more natural view from the building and minimizing the use of artificial light.” —Giorgio Buffoni, associate on Arup’s London facade engineering team.|“It is an adaptive building—the shape and performance react according to the environment,” says Giorgio Buffoni, an associate in the London facade engineering team at Arup.|In the United Arab Emirates (UAE), 70% to 85% of the solar gain in typical towers is due to direct exposure to solar rays. (Abdulmajid Karanouha and Ethan Kerberb, 2015) The biggest challenge of the design team is to improve internal comfort and reduce energy use. Compared with other skyscrapers in the region, whose glazing are always heavily tinted or highly reflective, the facade of Al Bahar Towers allowing more natural view and minimizing the use of artificial light. 
-Image srcs: imgs/1.gif|imgs/2.png|imgs/3.png
-References: Innovations in dynamic architecture, The Al-Bahr Towers Design and delivery of complex facades, Abdulmajid Karanouha and Ethan Kerberb, 2015 https://pdfs.semanticscholar.org/03ef/62fbea3a15a8714aafc6b671a36fe4587fd3.pdf | https://www.autodesk.com/redshift/al-bahr-towers/
+Keywords:bio-inspiration|regional architecture|performance oriented technology|integration of traditional and modern
+Challenges:Intense sunshine and extreme temperature 
+Intro:“A key driver in the design was a more natural view from the building and minimizing the use of artificial light.” —Giorgio Buffoni, associate on Arup’s London facade engineering team.|“It is an adaptive building—the shape and performance react according to the environment,” says Giorgio Buffoni, an associate in the London facade engineering team at Arup.|In the United Arab Emirates (UAE), 70% to 85% of the solar gain in typical towers is due to direct exposure to solar rays. (Abdulmajid Karanouha and Ethan Kerberb, 2015) The biggest challenge of the design team is to improve internal comfort and reduce energy use. Compared with other skyscrapers in the region, whose glazing are always heavily tinted or highly reflective, the facade of Al Bahar Towers allowing more natural view and minimizing the use of artificial light. 
+ImgSrcs:imgs/1.gif|imgs/2.png|imgs/3.png
+References:Innovations in dynamic architecture, The Al-Bahr Towers Design and delivery of complex facades, Abdulmajid Karanouha and Ethan Kerberb, 2015 https://pdfs.semanticscholar.org/03ef/62fbea3a15a8714aafc6b671a36fe4587fd3.pdf | https://www.autodesk.com/redshift/al-bahr-towers/
