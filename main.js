@@ -133,7 +133,7 @@
       console.log(imgSrcs.length);
       for (let i = 0; i < imgSrcs.length; i++) {
         let image = document.createElement("img");
-        image.src = "cases/" + response["Title"] + "/imgs/" + imgSrcs[i];
+        image.src = imgSrcs[i];
         image.classList.add("images");
         id("imgs").appendChild(image);
       }

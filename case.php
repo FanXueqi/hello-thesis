@@ -24,6 +24,8 @@
       }
       $result[$part1] = $part2;
     }
+    $images = glob("cases/"  . $case . "/imgs/*");
+    $result["ImgSrcs"] = $images;
     return $result;
   }
 

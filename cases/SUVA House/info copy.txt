@@ -1,0 +1,10 @@
+Architects:Herzog and de Meuron
+Time:1991-1993
+Location:Basel, Switzerland 
+Shading Material:prismatic panels, glass 
+Frame Material: 
+Keywords:view, noise reduction 
+Challenges: 
+Intro:There were two options for enlarging the SUVA Basel branch: demolish the 1950’s building or build an additionH&DM choose to retain the existing building by adding a glazed covering to both the old building and the new (offices and apartments) buildings, giving it a coherent urban presence. (H&DM)|“Each of the three strips makes a story: the lowest at the height of the railing, the one in the middle at eye level, and the third between eye level and the slab.|The choice of glass in the three strips was made on the basis of its physical and optical properties: sheets of frosted glass at the height of the railings, ordinary, transparent insulating glass at eye level, prismatic glass that reflects the sun’s rays and only admits indirect light into the rooms in the upper part, between eye level and slab. The panes of frosted and prismatic glass are opened and closed by means of a centralized electronic control system. The glass shutters in the transparent area can be opened and closed individually from inside.” (Rocca, 1994)
+References: 
+
