@@ -129,8 +129,6 @@
 
       //imgs
       let imgSrcs = response["ImgSrcs"];
-      console.log(response["ImgSrcs"]);
-      console.log(imgSrcs.length);
       for (let i = 0; i < imgSrcs.length; i++) {
         let image = document.createElement("img");
         image.src = imgSrcs[i];
