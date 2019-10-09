@@ -5,8 +5,8 @@
   const CRITERIAS = {
     "application" : ["external", "internal", "intergrated"],
     "control": ["center", "local", "centern and local", "no control"],
-    "movement": ["fold", "slide", "rotate", "twist", "roll"],
-    "sensors": ["light", "temperature", "moisture", "touch", "acceleration"]
+    "movement": ["fold", "slide", "rotate", "twist", "roll", "bend", "other", "no movement"],
+    "sensors": ["light", "temperature", "moisture", "touch", "acceleration", "no sensor"]
   };
 
   window.addEventListener("load", init);

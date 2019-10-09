@@ -1,5 +1,6 @@
-light:Al Bahar Towers,One Ocean Pavilion,RMIT Design Hub,Kiefer Technic Showroom
-temperature:One Ocean Pavilion
-moisture:
-touch:
-acceleration:
+light:Al Bahar Towers,One Ocean Pavilion,RMIT Design Hub,Kiefer Technic Showroom,BRAUN Headquarters,Garden by the Bay,Haus am Milsertor,Media-ICT Building,Post tower,Refurbishment High-Rise Sparkasse,U.S. Pavilion Montreal Expo.,Hylozoic Ground
+temperature:One Ocean Pavilion,BRAUN Headquarters,Garden by the Bay,Media-ICT Building,Post tower,Refurbishment High-Rise Sparkasse,SUVA House
+moisture:Blur
+touch:Hylozoic Ground
+acceleration:Hylozoic Ground
+no sensor:Gores Group Headquarters,Homeostatic Facade,Kunsthaus Bregenz,Lotus Dome,Reef,Solarleaf,Tessellate,Unilever Headquarters,Wind Solos

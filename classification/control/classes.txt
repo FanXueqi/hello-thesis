@@ -1,4 +1,4 @@
-center:Al Bahar Towers,One Ocean Pavilion,RMIT Design Hub
+center:Al Bahar Towers,One Ocean Pavilion,RMIT Design Hub,BRAUN Headquarters,Garden by the Bay,Refurbishment High-Rise Sparkasse,Tessellate,U.S. Pavilion Montreal Expo.
 local:
-center and local:Kiefer Technic Showroom
-no control:
+center and local:Kiefer Technic Showroom,Blur,Haus am Milsertor,Media-ICT Building,Post tower,SUVA House,Hylozoic Ground
+no control:Gores Group Headquarters,Homeostatic Facade,Kunsthaus Bregenz,Lotus Dome,Reef,Solarleaf,Unilever Headquarters,Wind Solos
