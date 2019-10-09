@@ -1,0 +1,10 @@
+Title:Reef
+Architects:Rob Ley and Joshua G. Stein 
+Time:2009
+Location: 
+Fin Material:Fiber Reinforced Plastic
+Frame Material:wood and aluminium
+Keywords:shape-memory material 
+Challenges: 
+Intro:“Reef investigates the role emerging material technology can play in the sensitive reprogramming of architectural and public space.” said Rob. The project used SMA, which can change shape to temperature, to control the open and close of the fins. The motion of the fins operate at a molecular level, which parallels that of plants and lower level organisms that are considered “responsive but not conscious”.  
+References:Ajla Aksamijia, 2016, Integrating Innovation in Architecture.|Rob Ley Studio, https://www.rob-ley.com/reef

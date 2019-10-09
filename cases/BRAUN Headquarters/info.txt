@@ -1,0 +1,11 @@
+Title:BRAUN Headquarters
+Architects:Schneider+Schumacher Architeckten 
+Time:1999
+Location:Kronberg, Germany 
+Shading Material: blinds
+Frame Material: 
+Keywords: 
+Challenges: 
+Intro:The specifically developed double façade reduces heat loss during the winter and solar gain in the summer. Its internal layer is operated manually; the outer layer consists of mechanically driven glass panels. According to weather, season, time of day or individual preference, the façade panels open up, creating a multitude of reflections like a large shimmering shell.(Schneider+Schumacher Architekten)|“We wanted a building that could breathe, on that regulated its energy its energy intelligently by letting it all out in the summer and keeping it in during winter.” said Michael Schumacher.The dual-skin facade was a new casement window development, preventing solar gain in summer and heat loss in winter, similar to a Swiss casement. When designing the double-skin, two alternatives were compared - a single-glazed external skin plus a double-glazed internal skin; and a double-glazed external skin plus a single-glazed internal skin.  Due to the heavy traffic on the south west of the site, the former was chosen. (Shneider + Shumacher,the book)|The building conceived a mix mode ventilation, where natural ventilation takes predominant role and mechanical displacement ventilation is used in extreme weather. The blinds in the cavity which provide shading is centrally controlled by can also be overridden by individual users. “The building does everything by itself.” said Michael Schumacher , “It knows when it is hot outside and when it  has to let sunshades down. The user can open the window himself, it’s a small flap.This was also the whole idea. It was developed with the intention of ensuring optimum individual control, but it also had to be something that wasn’t easily damaged.”
+References:https://www.schneider-schumacher.com/projects/project-details/90-braun-headquarter.project|Pg200, Shneider + Shumacher, Cachola Schmal, Peter, 2011|Brian Cody,2002,The Braun headquarters, Kronberg, Germany http://www.ige.tugraz.at/assets/2002.1_arup-journal_the-braun-headquarters-kronberg.pdf
+

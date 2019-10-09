@@ -1,0 +1,11 @@
+Title:Refurbishment High-Rise Sparkasse
+Architects:SAI 
+Time:Built in 1969, renovated in 2011
+Location:Rosenheim, Germany
+Shading Material: 
+Frame Material: 
+Keywords:wind, natural ventilation 
+Challenges:mitigating High Winds - pressure reduction facade for nature ventilation
+Intro:“Research, expert opinions, model calculations, simulations, and cost analyses were able to prove that the redevelopment of the 40 years old high-rise building would be the most reasonable measure from an ecological and economical point of view and would also generate a high surface yield. “(STG)|“The intelligent combination of the double facade system with the cooling, heating, and ventilation systems reduces the energy costs to a fraction of the original value.”(STG)|The double facade create a climate buffer to reduce wind pressure and allows natural ventilation of the office spaces.
+References:https://transsolar.com/projects/high-rise-sparkasse|https://www.stg-beikirch.de/referenzen-detailseite-en/items/5.html
+

@@ -92,7 +92,7 @@
 
         let icon = document.createElement("img");
         icon.classList.add("icon");
-        icon.src = "cases/" + project + "/icon.gif";
+        icon.src = "cases/" + project + "/icon.png";
         icon.addEventListener("click", function() {showProject(project)});
         id(whatclass).appendChild(icon);
       }
@@ -121,7 +121,7 @@
 
     function populateProject(response) {
       //baseInfo
-      for (let i = 0; i < 7; i ++) {
+      for (let i = 0; i < 8; i ++) {
         let part1 = document.createElement("p");
         part1.innerText = Object.keys(response)[i] + " : " + Object.values(response)[i];
         id("baseInfo").appendChild(part1);

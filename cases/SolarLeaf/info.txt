@@ -1,0 +1,11 @@
+Title:SolarLeaf
+Architects:Strategic Science Consult of Germany (SSC), Colt International and Arup 
+Time: 2013 
+Location:Hamburg, Germany
+Shading Material: 
+Frame Material: 
+Keywords:photo-bioreactors 
+Challenges: 
+Intro:SolarLeaf, the world’s first bio-responsive façade presented at last year’s International Building Exhibition (IBA) in Hamburg has won the Zumtobel Group Award 2014 in the “Applied Innovations” category. 
+References:https://www.coltinfo.co.uk/files/pdf/UK/SolarLeaf%20bioreactor%20facade.pdf|https://archello.com/project/solarleaf|https://www.arup.com/projects/solar-leaf
+

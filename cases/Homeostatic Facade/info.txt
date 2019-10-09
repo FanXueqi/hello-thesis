@@ -1,0 +1,10 @@
+Title:Homeostatic Facade
+Architects:Decker Yeadon
+Time:2013
+Location: 
+Shading Material:Electro Active Polymers(EAPs)
+Frame Material: 
+Keywords:low energy consumption|superior precision|adjusts to suit changing exterior environments|No computer programing or physical adjustments required
+Challenges: 
+Intro:“Decker Yeadon's new and modern facade system was enthused by muscles, and by homeostasis in biological systems. The actuator that runs the system is similar to muscles. Homeostasis in organisms allows them to regulate their internal settings such as temperature. The Homeostatic Façade System regulates a building’s climate by automatically responding to ecological conditions. This makes Decker Yeadon's façade system attuned to local conditions and they use locally available materials and energy.”|The maze like facade, made from Electro Active Polymers(EAPs), flexes and bends according to the solar heat gain of the building. The effect is the open and close of the facade, and it regulates the building inside temperature as environmental condition changes. In the Homeostatic Façade System, EAPs are placed in the air cavity of the double glass skin, where it is protected from the wind and rain.The EAPs consist of a polymeric membrane sandwiched between two electrodes, have been used as soft muscles in robotics. The Electrode type in this system is a 200 nm thick layer of silver, which reflect light and distributes electrical charge across the material. (Martina Decker, 2012)
+References:Martina Decker, 2012, Emergent Futures: Nanotechnology and Emergent Materials in Architecture, https://www.researchgate.net/publication/292782699_Emergent_Futures_Nanotechology_and_Emergent_Materials_in_Architecture|https://internationalfacade.com/news/general/homeostatic-building-facade/

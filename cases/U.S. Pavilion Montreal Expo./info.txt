@@ -1,0 +1,11 @@
+Title:U.S. Pavilion Montreal Expo.
+Architects:Backminster Fuller
+Time:1967
+Location:Montreal, Canada
+Shading Material:acrylic glass
+Frame Material:cable
+Keywords: 
+Challenges: 
+Intro:“In 1967, Buckminster Fuller designed a futuristic responsive façade for the united State Pavilion at Montreal Expo 67. The technology used in this responsive facade was a soft self-regulated shading system with structural cables, which operated using a roller blind mechanism (Khoo 2013).”
+References: 
+

@@ -1,0 +1,11 @@
+Title:Post tower
+Architects:Helmut Jahn, Werner Sobek, Matthias Schuler
+Time:
+Location:BONN, GERMANY 
+Shading Material: 
+Frame Material: 
+Keywords:nature ventilation
+Challenges: 
+Intro:The building has a twin-shell façade. The outer shell is completely out of glass, enabling natural ventilation, especially in the spring and fall. The outer shell protects from rain, wind and noise and allows for placement of the sunshades. Glass from floor to ceiling optimizes daylight. Cost comparisons show that the total cost of climate concept and twin-shell façade is equal to a conventional system. Operating costs are reduced by 60%. (archdaily)
+References:archdaily,https://www.archdaily.com/231521/flashback-post-tower-murphyjahn
+
