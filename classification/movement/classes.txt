@@ -4,5 +4,5 @@ rotate:RMIT Design Hub,BRAUN Headquarters,Post tower,SUVA House,Wind Solos,Hyloz
 twist:One Ocean Pavilion,Hylozoic Ground
 roll:Garden by the Bay
 bend:Homeostatic Facade,Lotus Dome,Reef,Hylozoic Ground
-Other:Blur,Solarleaf
+Other:Blur,SolarLeaf
 no movement:Gores Group Headquarters,Kunsthaus Bregenz,Refurbishment High-Rise Sparkasse,Unilever Headquarters

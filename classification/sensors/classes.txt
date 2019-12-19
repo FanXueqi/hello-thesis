@@ -3,4 +3,4 @@ temperature:One Ocean Pavilion,BRAUN Headquarters,Garden by the Bay,Media-ICT Bu
 moisture:Blur
 touch:Hylozoic Ground
 acceleration:Hylozoic Ground
-no sensor:Gores Group Headquarters,Homeostatic Facade,Kunsthaus Bregenz,Lotus Dome,Reef,Solarleaf,Tessellate,Unilever Headquarters,Wind Solos
+no sensor:Gores Group Headquarters,Homeostatic Facade,Kunsthaus Bregenz,Lotus Dome,Reef,SolarLeaf,Tessellate,Unilever Headquarters,Wind Solos

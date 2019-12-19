@@ -12,19 +12,39 @@
   window.addEventListener("load", init);
 
   function init() {
-    id("singleProjectView").classList.add("hidden");
+    id("mainPage").addEventListener("click", backToMain);
     createNav();
+    showClassifications("movement");
   }
 
   function createNav() {
+    let list = id("criterias");
+    while (list.hasChildNodes()) {
+      list.removeChild(list.firstChild);
+    }
+
     for (var key in CRITERIAS) {
       if (CRITERIAS.hasOwnProperty(key)) {
         let btn = document.createElement("BUTTON");
         btn.innerText = key;
-        btn.id = key;
+        btn.id = key
         btn.addEventListener("click", function() {showClassifications(btn.id)});
         id("criterias").appendChild(btn);
       }
+    }
+  }
+
+  function backToMain() {
+    console.log("wa");
+    init();
+    id("allCasesView").classList.remove("hidden");
+  //  clearSingleProjectView();
+  }
+
+  function clearSingleProjectView() {
+    let list = id("singleProjectView");
+    while (list.hasChildNodes()) {
+      list.removeChild(list.firstChild);
     }
   }
 
@@ -73,8 +93,6 @@
       let classification = document.createElement("div");
       classification.classList.add("classification");
       classification.width = window.innerWidth / numClasses;
-      console.log(window.innerWidth);
-      console.log(classification.width);
 
       let classTitle = document.createElement("p");
       classTitle.innerText = whatclass;
@@ -120,6 +138,30 @@
     }
 
     function populateProject(response) {
+      clearSingleProjectView();
+
+      console.log("maaaa");
+      let baseInfo = document.createElement("div");
+      baseInfo.id = "baseInfo";
+      let imgs = document.createElement("div");
+      imgs.id = "imgs";
+      let intro = document.createElement("div");
+      intro.id = "intro";
+      let references = document.createElement("div");
+      references.id = "references";
+      let referenceButton  =  document.createElement("p");
+      referenceButton.innerText = "References: ";
+      references.appendChild(referenceButton);
+
+
+
+      id("singleProjectView").appendChild(baseInfo);
+      id("singleProjectView").appendChild(imgs);
+      id("singleProjectView").appendChild(intro);
+      id("singleProjectView").appendChild(references);
+
+
+
       //baseInfo
       for (let i = 0; i < 8; i ++) {
         let part1 = document.createElement("p");
@@ -137,9 +179,20 @@
       }
 
       //intro
-      let intro = document.createElement("p");
-      intro.innerText = response["Intro"];
-      id("intro").appendChild(intro);
+      let introParts = response["Intro"];
+      for (let i = 0; i < introParts.length; i++) {
+        let introText = document.createElement("p");
+        introText.innerText = introParts[i];
+        id("intro").appendChild(introText);
+      }
+
+      //references
+      let referenceParts = response["References"];
+      for (let i = 0; i < referenceParts.length; i++) {
+        let referenceText = document.createElement("p");
+        referenceText.innerText = referenceParts[i];
+        id("references").appendChild(referenceText);
+      }
     }
   }
 
