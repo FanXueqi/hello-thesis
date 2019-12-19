@@ -6,6 +6,6 @@ Shading Material:Fog
 Frame Material: 
 Keywords: 
 Challenges: 
-Intro:“Blur is a reaction to the oversaturation of visual media in recent national and world expositions that, more and more, have become competition grounds for state-of-the-art immersion technologies and simulation extravaganzas. These large scale exhibitions feed our insatiable appetite for visual stimulation with ever greater digital virtuosity. In concept with consumer culture, satisfaction is measured in pixels per inch high definition has become the new orthodoxy. By contrast, blur is decidedly low definition.”  Michael shamiyeh “What People Want, Populism in Architecture and Design”
+Intro:“Blur is a reaction to the oversaturation of visual media in recent national and world expositions that, more and more, have become competition grounds for state-of-the-art immersion technologies and simulation extravaganzas. These large scale exhibitions feed our insatiable appetite for visual stimulation with ever greater digital virtuosity. In concept with consumer culture, satisfaction is measured in pixels per inch high definition has become the new orthodoxy. By contrast, blur is decidedly low definition.”  Michael shamiyeh “What People Want, Populism in Architecture and Design”|
 References: 
 

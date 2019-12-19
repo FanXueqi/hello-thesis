@@ -5,6 +5,6 @@ Location:BEVERLY HILLS, UNITED STATES
 Facade Material:Glass
 Keywords: 
 Challenges: 
-Intro:This renovation became a materials investigation led by the architectural team that questioned the design potential of a standard glass façade.
+Intro:This renovation became a materials investigation led by the architectural team that questioned the design potential of a standard glass façade.|
 References: 
 

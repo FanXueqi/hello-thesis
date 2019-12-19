@@ -6,6 +6,6 @@ Shading Material:smart foil
 Frame Material: 
 Keywords: 
 Challenges: 
-Intro:LOTUS are smart foils which unfolds organically in response to human behaviour. Based on the temperature of your hand and light LOTUS folds open. LOTUS gives a poetic morphing of space and people. (Studio Roosegaarde)
-References:https://www.studioroosegaarde.net/project/lotus
+Intro:LOTUS are smart foils which unfolds organically in response to human behaviour. Based on the temperature of your hand and light LOTUS folds open. LOTUS gives a poetic morphing of space and people. (Studio Roosegaarde)|
+References:https://www.studioroosegaarde.net/project/lotus|
 

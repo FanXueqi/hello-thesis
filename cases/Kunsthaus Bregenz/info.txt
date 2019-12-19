@@ -5,6 +5,6 @@ Location:BREGENZ, AUSTRIA
 Facade Material:Glass 
 Keywords: 
 Challenges: 
-Intro:The exterior of the exhibition building is defined by the striking glass façade. The air-permeable scaly skin, comprising semi-opaque glass paneling, mounted in front of the concrete core, ensures an initial filtering and the optimum refraction of daylight into the skylight ceilings of the exhibition floors. At night an inverted effect occurs: the artificial light radiates through the daylight gaps from the interior of the building, penetrating outwards through the glass skin. Technical service areas, fixed-mounted cleaning scaffolds and lifts are integrated into the filigree support structure between the building and the glass façade.
-References:https://kunsthaus-bregenz.at/about-us/architecture/?L=1#8418ddd7
+Intro:The exterior of the exhibition building is defined by the striking glass façade. The air-permeable scaly skin, comprising semi-opaque glass paneling, mounted in front of the concrete core, ensures an initial filtering and the optimum refraction of daylight into the skylight ceilings of the exhibition floors. At night an inverted effect occurs: the artificial light radiates through the daylight gaps from the interior of the building, penetrating outwards through the glass skin. Technical service areas, fixed-mounted cleaning scaffolds and lifts are integrated into the filigree support structure between the building and the glass façade.|
+References:https://kunsthaus-bregenz.at/about-us/architecture/?L=1#8418ddd7|
 
